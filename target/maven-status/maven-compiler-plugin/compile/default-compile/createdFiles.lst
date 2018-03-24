@@ -1,0 +1,8 @@
+com\scp\bean\Product.class
+com\scp\service\ProductService.class
+com\scp\controller\ProductController.class
+com\scp\service\ProductServiceImpl.class
+com\scp\dao\ProductDAOImpl.class
+com\scp\dao\ProductDAO.class
+com\scp\util\SessionFactoryUtil.class
+com\scp\entities\ProductEntity.class
